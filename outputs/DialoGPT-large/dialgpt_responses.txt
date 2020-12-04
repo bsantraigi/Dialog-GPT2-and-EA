@@ -1,0 +1,1009 @@
+Turn 0: Hey man , you wanna buy some weed ?
+DialoGPT: 
+
+Turn 0: Hey man , you wanna buy some weed ?
+Turn 1: Some what ?
+DialoGPT: 
+
+Turn 0: Hey man , you wanna buy some weed ?
+Turn 1: Some what ?
+Turn 2: Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+DialoGPT: I'm not sure what you're trying to say.
+
+Turn 0: Hey man , you wanna buy some weed ?
+Turn 1: Some what ?
+Turn 2: Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+Turn 3: Oh , umm , no thanks .
+DialoGPT: 
+
+Turn 0: Hey man , you wanna buy some weed ?
+Turn 1: Some what ?
+Turn 2: Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+Turn 3: Oh , umm , no thanks .
+Turn 4: I also have blow if you prefer to do a few lines .
+DialoGPT: 
+
+Turn 0: Hey man , you wanna buy some weed ?
+Turn 1: Some what ?
+Turn 2: Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+Turn 3: Oh , umm , no thanks .
+Turn 4: I also have blow if you prefer to do a few lines .
+Turn 5: No , I am ok , really .
+DialoGPT: 
+
+Turn 0: Hey man , you wanna buy some weed ?
+Turn 1: Some what ?
+Turn 2: Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+Turn 3: Oh , umm , no thanks .
+Turn 4: I also have blow if you prefer to do a few lines .
+Turn 5: No , I am ok , really .
+Turn 6: Come on man ! I even got dope and acid ! Try some !
+DialoGPT: 
+
+Turn 0: Hey man , you wanna buy some weed ?
+Turn 1: Some what ?
+Turn 2: Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+Turn 3: Oh , umm , no thanks .
+Turn 4: I also have blow if you prefer to do a few lines .
+Turn 5: No , I am ok , really .
+Turn 6: Come on man ! I even got dope and acid ! Try some !
+Turn 7: Do you really have all of these drugs ? Where do you get them from ?
+DialoGPT: 
+
+Turn 0: Hey man , you wanna buy some weed ?
+Turn 1: Some what ?
+Turn 2: Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+Turn 3: Oh , umm , no thanks .
+Turn 4: I also have blow if you prefer to do a few lines .
+Turn 5: No , I am ok , really .
+Turn 6: Come on man ! I even got dope and acid ! Try some !
+Turn 7: Do you really have all of these drugs ? Where do you get them from ?
+Turn 8: I got my connections ! Just tell me what you want and I ’ ll even give you one ounce for free .
+DialoGPT: 
+
+Turn 0: Hey man , you wanna buy some weed ?
+Turn 1: Some what ?
+Turn 2: Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+Turn 3: Oh , umm , no thanks .
+Turn 4: I also have blow if you prefer to do a few lines .
+Turn 5: No , I am ok , really .
+Turn 6: Come on man ! I even got dope and acid ! Try some !
+Turn 7: Do you really have all of these drugs ? Where do you get them from ?
+Turn 8: I got my connections ! Just tell me what you want and I ’ ll even give you one ounce for free .
+Turn 9: Sounds good ! Let ’ s see , I want .
+DialoGPT: 
+
+Turn 0: Hey man , you wanna buy some weed ?
+Turn 1: Some what ?
+Turn 2: Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+Turn 3: Oh , umm , no thanks .
+Turn 4: I also have blow if you prefer to do a few lines .
+Turn 5: No , I am ok , really .
+Turn 6: Come on man ! I even got dope and acid ! Try some !
+Turn 7: Do you really have all of these drugs ? Where do you get them from ?
+Turn 8: I got my connections ! Just tell me what you want and I ’ ll even give you one ounce for free .
+Turn 9: Sounds good ! Let ’ s see , I want .
+Turn 10: Yeah ?
+DialoGPT: 
+
+Turn 0: The taxi drivers are on strike again .
+DialoGPT: 
+
+Turn 0: The taxi drivers are on strike again .
+Turn 1: What for ?
+DialoGPT: I'm not sure what you're referring to.
+
+Turn 0: The taxi drivers are on strike again .
+Turn 1: What for ?
+Turn 2: They want the government to reduce the price of the gasoline .
+DialoGPT: I think it's a good thing.
+
+Turn 0: We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .
+DialoGPT: 
+
+Turn 0: We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .
+Turn 1: That's excellent . How have you managed that ?
+DialoGPT: I'm not sure if I should be happy or sad.
+
+Turn 0: We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .
+Turn 1: That's excellent . How have you managed that ?
+Turn 2: Mainly because we've invested in a heat recovery system .
+DialoGPT: 
+
+Turn 0: We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .
+Turn 1: That's excellent . How have you managed that ?
+Turn 2: Mainly because we've invested in a heat recovery system .
+Turn 3: What does that mean exactly ?
+DialoGPT: 
+
+Turn 0: We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .
+Turn 1: That's excellent . How have you managed that ?
+Turn 2: Mainly because we've invested in a heat recovery system .
+Turn 3: What does that mean exactly ?
+Turn 4: Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .
+DialoGPT: 
+
+Turn 0: We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .
+Turn 1: That's excellent . How have you managed that ?
+Turn 2: Mainly because we've invested in a heat recovery system .
+Turn 3: What does that mean exactly ?
+Turn 4: Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .
+Turn 5: What other sources of energy do you use ?
+DialoGPT: P
+
+Turn 0: Believe it or not , tea is the most popular beverage in the world after water .
+DialoGPT: 
+
+Turn 0: Believe it or not , tea is the most popular beverage in the world after water .
+Turn 1: Well , people from Asia to Europe all enjoy tea .
+DialoGPT: 
+
+Turn 0: Believe it or not , tea is the most popular beverage in the world after water .
+Turn 1: Well , people from Asia to Europe all enjoy tea .
+Turn 2: Right . And China is the homeland of tea .
+DialoGPT: 
+
+Turn 0: Believe it or not , tea is the most popular beverage in the world after water .
+Turn 1: Well , people from Asia to Europe all enjoy tea .
+Turn 2: Right . And China is the homeland of tea .
+Turn 3: Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .
+DialoGPT: 
+
+Turn 0: Believe it or not , tea is the most popular beverage in the world after water .
+Turn 1: Well , people from Asia to Europe all enjoy tea .
+Turn 2: Right . And China is the homeland of tea .
+Turn 3: Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .
+Turn 4: Do you know there are several catagories of Chinese tea ?
+DialoGPT: Cats?
+
+Turn 0: Believe it or not , tea is the most popular beverage in the world after water .
+Turn 1: Well , people from Asia to Europe all enjoy tea .
+Turn 2: Right . And China is the homeland of tea .
+Turn 3: Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .
+Turn 4: Do you know there are several catagories of Chinese tea ?
+Turn 5: Yes , I believe there are green teas , black teas and scented teas . Any Others ?
+DialoGPT: 
+
+Turn 0: Believe it or not , tea is the most popular beverage in the world after water .
+Turn 1: Well , people from Asia to Europe all enjoy tea .
+Turn 2: Right . And China is the homeland of tea .
+Turn 3: Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .
+Turn 4: Do you know there are several catagories of Chinese tea ?
+Turn 5: Yes , I believe there are green teas , black teas and scented teas . Any Others ?
+Turn 6: Well , have you ever heard of Oulong tea and compressed tea ?
+DialoGPT: 
+
+Turn 0: Believe it or not , tea is the most popular beverage in the world after water .
+Turn 1: Well , people from Asia to Europe all enjoy tea .
+Turn 2: Right . And China is the homeland of tea .
+Turn 3: Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .
+Turn 4: Do you know there are several catagories of Chinese tea ?
+Turn 5: Yes , I believe there are green teas , black teas and scented teas . Any Others ?
+Turn 6: Well , have you ever heard of Oulong tea and compressed tea ?
+Turn 7: Oh , yeah . Oulong tea is good for one's health . isn't it ?
+DialoGPT: 
+
+Turn 0: Believe it or not , tea is the most popular beverage in the world after water .
+Turn 1: Well , people from Asia to Europe all enjoy tea .
+Turn 2: Right . And China is the homeland of tea .
+Turn 3: Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .
+Turn 4: Do you know there are several catagories of Chinese tea ?
+Turn 5: Yes , I believe there are green teas , black teas and scented teas . Any Others ?
+Turn 6: Well , have you ever heard of Oulong tea and compressed tea ?
+Turn 7: Oh , yeah . Oulong tea is good for one's health . isn't it ?
+Turn 8: You surely know a lot about Chinese tea .
+DialoGPT: 
+
+Turn 0: Believe it or not , tea is the most popular beverage in the world after water .
+Turn 1: Well , people from Asia to Europe all enjoy tea .
+Turn 2: Right . And China is the homeland of tea .
+Turn 3: Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .
+Turn 4: Do you know there are several catagories of Chinese tea ?
+Turn 5: Yes , I believe there are green teas , black teas and scented teas . Any Others ?
+Turn 6: Well , have you ever heard of Oulong tea and compressed tea ?
+Turn 7: Oh , yeah . Oulong tea is good for one's health . isn't it ?
+Turn 8: You surely know a lot about Chinese tea .
+Turn 9: Sure , I like drinking tea at teahouses .
+DialoGPT: 
+
+Turn 0: Believe it or not , tea is the most popular beverage in the world after water .
+Turn 1: Well , people from Asia to Europe all enjoy tea .
+Turn 2: Right . And China is the homeland of tea .
+Turn 3: Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .
+Turn 4: Do you know there are several catagories of Chinese tea ?
+Turn 5: Yes , I believe there are green teas , black teas and scented teas . Any Others ?
+Turn 6: Well , have you ever heard of Oulong tea and compressed tea ?
+Turn 7: Oh , yeah . Oulong tea is good for one's health . isn't it ?
+Turn 8: You surely know a lot about Chinese tea .
+Turn 9: Sure , I like drinking tea at teahouses .
+Turn 10: Oh , so do I .
+DialoGPT: 
+
+Turn 0: Believe it or not , tea is the most popular beverage in the world after water .
+Turn 1: Well , people from Asia to Europe all enjoy tea .
+Turn 2: Right . And China is the homeland of tea .
+Turn 3: Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .
+Turn 4: Do you know there are several catagories of Chinese tea ?
+Turn 5: Yes , I believe there are green teas , black teas and scented teas . Any Others ?
+Turn 6: Well , have you ever heard of Oulong tea and compressed tea ?
+Turn 7: Oh , yeah . Oulong tea is good for one's health . isn't it ?
+Turn 8: You surely know a lot about Chinese tea .
+Turn 9: Sure , I like drinking tea at teahouses .
+Turn 10: Oh , so do I .
+Turn 11: Why don't we go for one now ?
+DialoGPT: o?
+
+Turn 0: Believe it or not , tea is the most popular beverage in the world after water .
+Turn 1: Well , people from Asia to Europe all enjoy tea .
+Turn 2: Right . And China is the homeland of tea .
+Turn 3: Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .
+Turn 4: Do you know there are several catagories of Chinese tea ?
+Turn 5: Yes , I believe there are green teas , black teas and scented teas . Any Others ?
+Turn 6: Well , have you ever heard of Oulong tea and compressed tea ?
+Turn 7: Oh , yeah . Oulong tea is good for one's health . isn't it ?
+Turn 8: You surely know a lot about Chinese tea .
+Turn 9: Sure , I like drinking tea at teahouses .
+Turn 10: Oh , so do I .
+Turn 11: Why don't we go for one now ?
+Turn 12: Great . We can chat while enjoying a cup there .
+DialoGPT: 
+
+Turn 0: What are your personal weaknesses ?
+DialoGPT: 
+
+Turn 0: What are your personal weaknesses ?
+Turn 1: I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking .
+DialoGPT: 
+
+Turn 0: What are your personal weaknesses ?
+Turn 1: I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking .
+Turn 2: Are you more of a leader or a follower ?
+DialoGPT: I'm a leader.
+
+Turn 0: What are your personal weaknesses ?
+Turn 1: I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking .
+Turn 2: Are you more of a leader or a follower ?
+Turn 3: I don ’ t try to lead people . I ’ d rather cooperate with everybody , and get the job done by working together .
+DialoGPT: 
+
+Turn 0: What are your personal weaknesses ?
+Turn 1: I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking .
+Turn 2: Are you more of a leader or a follower ?
+Turn 3: I don ’ t try to lead people . I ’ d rather cooperate with everybody , and get the job done by working together .
+Turn 4: Do you think you can make yourself easily understood in English ?
+DialoGPT: 
+
+Turn 0: What are your personal weaknesses ?
+Turn 1: I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking .
+Turn 2: Are you more of a leader or a follower ?
+Turn 3: I don ’ t try to lead people . I ’ d rather cooperate with everybody , and get the job done by working together .
+Turn 4: Do you think you can make yourself easily understood in English ?
+Turn 5: Yes , in most circumstances .
+DialoGPT: 
+
+Turn 0: What are your personal weaknesses ?
+Turn 1: I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking .
+Turn 2: Are you more of a leader or a follower ?
+Turn 3: I don ’ t try to lead people . I ’ d rather cooperate with everybody , and get the job done by working together .
+Turn 4: Do you think you can make yourself easily understood in English ?
+Turn 5: Yes , in most circumstances .
+Turn 6: Are you available for travel ?
+DialoGPT: 
+
+Turn 0: how long will it take us to drive to London ?
+DialoGPT:  beep
+
+Turn 0: how long will it take us to drive to London ?
+Turn 1: I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .
+DialoGPT: 
+
+Turn 0: how long will it take us to drive to London ?
+Turn 1: I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .
+Turn 2: that ’ s unless there is a traffic jam . It could take three hours .
+DialoGPT: 
+
+Turn 0: how long will it take us to drive to London ?
+Turn 1: I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .
+Turn 2: that ’ s unless there is a traffic jam . It could take three hours .
+Turn 3: you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .
+DialoGPT: 
+
+Turn 0: how long will it take us to drive to London ?
+Turn 1: I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .
+Turn 2: that ’ s unless there is a traffic jam . It could take three hours .
+Turn 3: you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .
+Turn 4: so , shall we allow three hours to cover the distance ?
+DialoGPT: 
+
+Turn 0: how long will it take us to drive to London ?
+Turn 1: I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .
+Turn 2: that ’ s unless there is a traffic jam . It could take three hours .
+Turn 3: you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .
+Turn 4: so , shall we allow three hours to cover the distance ?
+Turn 5: ok . You haven ’ t seen my company car , have you ?
+DialoGPT: 
+
+Turn 0: how long will it take us to drive to London ?
+Turn 1: I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .
+Turn 2: that ’ s unless there is a traffic jam . It could take three hours .
+Turn 3: you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .
+Turn 4: so , shall we allow three hours to cover the distance ?
+Turn 5: ok . You haven ’ t seen my company car , have you ?
+Turn 6: no . let me take a look ... it ’ s longer than my car .
+DialoGPT: 
+
+Turn 0: how long will it take us to drive to London ?
+Turn 1: I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .
+Turn 2: that ’ s unless there is a traffic jam . It could take three hours .
+Turn 3: you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .
+Turn 4: so , shall we allow three hours to cover the distance ?
+Turn 5: ok . You haven ’ t seen my company car , have you ?
+Turn 6: no . let me take a look ... it ’ s longer than my car .
+Turn 7: I think it ’ s over five meters long . I can ’ t remember exactly . It has a maximum speed of over 200 kilometers an hour .
+DialoGPT: 
+
+Turn 0: how long will it take us to drive to London ?
+Turn 1: I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .
+Turn 2: that ’ s unless there is a traffic jam . It could take three hours .
+Turn 3: you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .
+Turn 4: so , shall we allow three hours to cover the distance ?
+Turn 5: ok . You haven ’ t seen my company car , have you ?
+Turn 6: no . let me take a look ... it ’ s longer than my car .
+Turn 7: I think it ’ s over five meters long . I can ’ t remember exactly . It has a maximum speed of over 200 kilometers an hour .
+Turn 8: wow ! That ’ s fast ! I don ’ t think we will be traveling that fast on the motorway .
+DialoGPT: 
+
+Turn 0: So how did I do on my driving test ?
+DialoGPT: I'm not sure what you mean by that.
+
+Turn 0: So how did I do on my driving test ?
+Turn 1: Do you want the truth ?
+DialoGPT: 
+
+Turn 0: So how did I do on my driving test ?
+Turn 1: Do you want the truth ?
+Turn 2: Of course , I do .
+DialoGPT: 
+
+Turn 0: So how did I do on my driving test ?
+Turn 1: Do you want the truth ?
+Turn 2: Of course , I do .
+Turn 3: Well , you really didn't do all that well .
+DialoGPT: 
+
+Turn 0: So how did I do on my driving test ?
+Turn 1: Do you want the truth ?
+Turn 2: Of course , I do .
+Turn 3: Well , you really didn't do all that well .
+Turn 4: How bad did I do ?
+DialoGPT: I'm sorry.
+
+Turn 0: So how did I do on my driving test ?
+Turn 1: Do you want the truth ?
+Turn 2: Of course , I do .
+Turn 3: Well , you really didn't do all that well .
+Turn 4: How bad did I do ?
+Turn 5: To be completely honest , you failed your test .
+DialoGPT: 
+
+Turn 0: So how did I do on my driving test ?
+Turn 1: Do you want the truth ?
+Turn 2: Of course , I do .
+Turn 3: Well , you really didn't do all that well .
+Turn 4: How bad did I do ?
+Turn 5: To be completely honest , you failed your test .
+Turn 6: How ?
+DialoGPT: 
+
+Turn 0: So how did I do on my driving test ?
+Turn 1: Do you want the truth ?
+Turn 2: Of course , I do .
+Turn 3: Well , you really didn't do all that well .
+Turn 4: How bad did I do ?
+Turn 5: To be completely honest , you failed your test .
+Turn 6: How ?
+Turn 7: There were a number of reasons .
+DialoGPT: 
+
+Turn 0: So how did I do on my driving test ?
+Turn 1: Do you want the truth ?
+Turn 2: Of course , I do .
+Turn 3: Well , you really didn't do all that well .
+Turn 4: How bad did I do ?
+Turn 5: To be completely honest , you failed your test .
+Turn 6: How ?
+Turn 7: There were a number of reasons .
+Turn 8: What were they ?
+DialoGPT: 
+
+Turn 0: So how did I do on my driving test ?
+Turn 1: Do you want the truth ?
+Turn 2: Of course , I do .
+Turn 3: Well , you really didn't do all that well .
+Turn 4: How bad did I do ?
+Turn 5: To be completely honest , you failed your test .
+Turn 6: How ?
+Turn 7: There were a number of reasons .
+Turn 8: What were they ?
+Turn 9: Basically , you just can't drive .
+DialoGPT: 
+
+Turn 0: So how did I do on my driving test ?
+Turn 1: Do you want the truth ?
+Turn 2: Of course , I do .
+Turn 3: Well , you really didn't do all that well .
+Turn 4: How bad did I do ?
+Turn 5: To be completely honest , you failed your test .
+Turn 6: How ?
+Turn 7: There were a number of reasons .
+Turn 8: What were they ?
+Turn 9: Basically , you just can't drive .
+Turn 10: Can I have another try ?
+DialoGPT: I'm sorry.
+
+Turn 0: Good morning . What's the matter with you ?
+DialoGPT: 
+
+Turn 0: Good morning . What's the matter with you ?
+Turn 1: Good morning , doctor . I have a terrible headache .
+DialoGPT: 
+
+Turn 0: Good morning . What's the matter with you ?
+Turn 1: Good morning , doctor . I have a terrible headache .
+Turn 2: All right , young man . Tell me how it got started .
+DialoGPT: 
+
+Turn 0: Good morning . What's the matter with you ?
+Turn 1: Good morning , doctor . I have a terrible headache .
+Turn 2: All right , young man . Tell me how it got started .
+Turn 3: Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .
+DialoGPT: 
+
+Turn 0: Good morning . What's the matter with you ?
+Turn 1: Good morning , doctor . I have a terrible headache .
+Turn 2: All right , young man . Tell me how it got started .
+Turn 3: Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .
+Turn 4: Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .
+DialoGPT: 
+
+Turn 0: Good morning . What's the matter with you ?
+Turn 1: Good morning , doctor . I have a terrible headache .
+Turn 2: All right , young man . Tell me how it got started .
+Turn 3: Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .
+Turn 4: Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .
+Turn 5: Ah .
+DialoGPT: 
+
+Turn 0: Good morning . What's the matter with you ?
+Turn 1: Good morning , doctor . I have a terrible headache .
+Turn 2: All right , young man . Tell me how it got started .
+Turn 3: Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .
+Turn 4: Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .
+Turn 5: Ah .
+Turn 6: Your throat is inflamed . And your tongue is heavily coated . You have all the symptoms of influenza .
+DialoGPT: 
+
+Turn 0: Good morning . What's the matter with you ?
+Turn 1: Good morning , doctor . I have a terrible headache .
+Turn 2: All right , young man . Tell me how it got started .
+Turn 3: Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .
+Turn 4: Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .
+Turn 5: Ah .
+Turn 6: Your throat is inflamed . And your tongue is heavily coated . You have all the symptoms of influenza .
+Turn 7: What am I supposed to do then ?
+DialoGPT: 
+
+Turn 0: Good morning . What's the matter with you ?
+Turn 1: Good morning , doctor . I have a terrible headache .
+Turn 2: All right , young man . Tell me how it got started .
+Turn 3: Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .
+Turn 4: Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .
+Turn 5: Ah .
+Turn 6: Your throat is inflamed . And your tongue is heavily coated . You have all the symptoms of influenza .
+Turn 7: What am I supposed to do then ?
+Turn 8: A good rest is all you need , and drink more water . I'll write you a prescription .
+DialoGPT: 
+
+Turn 0: My dear , what's for supper ?
+DialoGPT:  the guy who's been in the office for a while now.
+
+Turn 0: My dear , what's for supper ?
+Turn 1: Red cooked carp and rape with fresh mushrooms .
+DialoGPT: 
+
+Turn 0: My dear , what's for supper ?
+Turn 1: Red cooked carp and rape with fresh mushrooms .
+Turn 2: What about soup ?
+DialoGPT: 
+
+Turn 0: My dear , what's for supper ?
+Turn 1: Red cooked carp and rape with fresh mushrooms .
+Turn 2: What about soup ?
+Turn 3: Sour-peppery soup .
+DialoGPT: 
+
+Turn 0: My dear , what's for supper ?
+Turn 1: Red cooked carp and rape with fresh mushrooms .
+Turn 2: What about soup ?
+Turn 3: Sour-peppery soup .
+Turn 4: Which condiment do you use for ?
+DialoGPT:  you know, for the sake of the joke.
+
+Turn 0: My dear , what's for supper ?
+Turn 1: Red cooked carp and rape with fresh mushrooms .
+Turn 2: What about soup ?
+Turn 3: Sour-peppery soup .
+Turn 4: Which condiment do you use for ?
+Turn 5: I'll use ginger , garlic scallion , hot pepper and vinegar .
+DialoGPT: 
+
+Turn 0: My dear , what's for supper ?
+Turn 1: Red cooked carp and rape with fresh mushrooms .
+Turn 2: What about soup ?
+Turn 3: Sour-peppery soup .
+Turn 4: Which condiment do you use for ?
+Turn 5: I'll use ginger , garlic scallion , hot pepper and vinegar .
+Turn 6: Very good , need I help you ?
+DialoGPT: haha
+
+Turn 0: My dear , what's for supper ?
+Turn 1: Red cooked carp and rape with fresh mushrooms .
+Turn 2: What about soup ?
+Turn 3: Sour-peppery soup .
+Turn 4: Which condiment do you use for ?
+Turn 5: I'll use ginger , garlic scallion , hot pepper and vinegar .
+Turn 6: Very good , need I help you ?
+Turn 7: No , don't need , I can do myself .
+DialoGPT: 
+
+Turn 0: My dear , what's for supper ?
+Turn 1: Red cooked carp and rape with fresh mushrooms .
+Turn 2: What about soup ?
+Turn 3: Sour-peppery soup .
+Turn 4: Which condiment do you use for ?
+Turn 5: I'll use ginger , garlic scallion , hot pepper and vinegar .
+Turn 6: Very good , need I help you ?
+Turn 7: No , don't need , I can do myself .
+Turn 8: Thanks . I can watch TV now .
+DialoGPT: 
+
+Turn 0: My dear , what's for supper ?
+Turn 1: Red cooked carp and rape with fresh mushrooms .
+Turn 2: What about soup ?
+Turn 3: Sour-peppery soup .
+Turn 4: Which condiment do you use for ?
+Turn 5: I'll use ginger , garlic scallion , hot pepper and vinegar .
+Turn 6: Very good , need I help you ?
+Turn 7: No , don't need , I can do myself .
+Turn 8: Thanks . I can watch TV now .
+Turn 9: But you must cook that dinner next time .
+DialoGPT: 
+
+Turn 0: Hello , this is Mike , Kara .
+DialoGPT: 
+
+Turn 0: Hello , this is Mike , Kara .
+Turn 1: Mike ! Good to hear from you . How are you ?
+DialoGPT: 
+
+Turn 0: Hello , this is Mike , Kara .
+Turn 1: Mike ! Good to hear from you . How are you ?
+Turn 2: Everything is fine , and how are you ?
+DialoGPT: 
+
+Turn 0: Hello , this is Mike , Kara .
+Turn 1: Mike ! Good to hear from you . How are you ?
+Turn 2: Everything is fine , and how are you ?
+Turn 3: Things are going well with me .
+DialoGPT: 
+
+Turn 0: Hello , this is Mike , Kara .
+Turn 1: Mike ! Good to hear from you . How are you ?
+Turn 2: Everything is fine , and how are you ?
+Turn 3: Things are going well with me .
+Turn 4: Kara , I had fun the other night at the movies and was wondering if you would like to go out again this Friday .
+DialoGPT: 
+
+Turn 0: Hello , this is Mike , Kara .
+Turn 1: Mike ! Good to hear from you . How are you ?
+Turn 2: Everything is fine , and how are you ?
+Turn 3: Things are going well with me .
+Turn 4: Kara , I had fun the other night at the movies and was wondering if you would like to go out again this Friday .
+Turn 5: Mike , I don't think that it's a good idea to go out again . I really need to focus on getting packed and ready to move back home .
+DialoGPT: 
+
+Turn 0: Hello , this is Mike , Kara .
+Turn 1: Mike ! Good to hear from you . How are you ?
+Turn 2: Everything is fine , and how are you ?
+Turn 3: Things are going well with me .
+Turn 4: Kara , I had fun the other night at the movies and was wondering if you would like to go out again this Friday .
+Turn 5: Mike , I don't think that it's a good idea to go out again . I really need to focus on getting packed and ready to move back home .
+Turn 6: Maybe we could just meet for coffee or something .
+DialoGPT: 
+
+Turn 0: Sun-set hotel . May I help you ?
+DialoGPT:  you're welcome to join us.
+
+Turn 0: Sun-set hotel . May I help you ?
+Turn 1: Yes , I have booked a room for 24th . It's a double room .
+DialoGPT: 
+
+Turn 0: Sun-set hotel . May I help you ?
+Turn 1: Yes , I have booked a room for 24th . It's a double room .
+Turn 2: Hold on , please . Let me check it for you . Yes , you're right . You will keep it for 3 days .
+DialoGPT: 
+
+Turn 0: Sun-set hotel . May I help you ?
+Turn 1: Yes , I have booked a room for 24th . It's a double room .
+Turn 2: Hold on , please . Let me check it for you . Yes , you're right . You will keep it for 3 days .
+Turn 3: Well , now I want to change the date from 24th to 28th .
+DialoGPT: 
+
+Turn 0: Are you busy tomorrow morning ?
+DialoGPT: 
+
+Turn 0: Are you busy tomorrow morning ?
+Turn 1: I'm free . What's up ?
+DialoGPT: 
+
+Turn 0: Are you busy tomorrow morning ?
+Turn 1: I'm free . What's up ?
+Turn 2: Someone has to pick up the boss at the airport .
+DialoGPT: 
+
+Turn 0: I'm sorry I'm so late . I had a really bad day .
+DialoGPT: 
+
+Turn 0: I'm sorry I'm so late . I had a really bad day .
+Turn 1: It's ten after six.We ' re late.But dinner is at six thirty .
+DialoGPT: 
+
+Turn 0: I'm sorry I'm so late . I had a really bad day .
+Turn 1: It's ten after six.We ' re late.But dinner is at six thirty .
+Turn 2: I know . I know . I'm really sorry . I lost my bag .
+DialoGPT: 
+
+Turn 0: I'm sorry I'm so late . I had a really bad day .
+Turn 1: It's ten after six.We ' re late.But dinner is at six thirty .
+Turn 2: I know . I know . I'm really sorry . I lost my bag .
+Turn 3: I'll call the lost and found office .
+DialoGPT: 
+
+Turn 0: Nani Book Store . How can I help you ?
+DialoGPT: 
+
+Turn 0: Nani Book Store . How can I help you ?
+Turn 1: Do you have the ' The man and the Sea ' by Ernest Hemingway ?
+DialoGPT: I'm not sure if I should read it or not.
+
+Turn 0: Nani Book Store . How can I help you ?
+Turn 1: Do you have the ' The man and the Sea ' by Ernest Hemingway ?
+Turn 2: Yes , we have one copy left .
+DialoGPT: 
+
+Turn 0: Do you have maps of downtown area ?
+DialoGPT: 
+
+Turn 0: Do you have maps of downtown area ?
+Turn 1: Yes , here you are .
+DialoGPT: 
+
+Turn 0: Do you have maps of downtown area ?
+Turn 1: Yes , here you are .
+Turn 2: How much is it ?
+DialoGPT: I'm not sure what you're asking.
+
+Turn 0: Do you have maps of downtown area ?
+Turn 1: Yes , here you are .
+Turn 2: How much is it ?
+Turn 3: It's free of charge .
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+DialoGPT: I'm not sure what you're trying to say.
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+Turn 2: Sure , John Sandals .
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+Turn 2: Sure , John Sandals .
+Turn 3: Hi , Mr . Sandals . I'm Michelle , at your service . When do you need the room ?
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+Turn 2: Sure , John Sandals .
+Turn 3: Hi , Mr . Sandals . I'm Michelle , at your service . When do you need the room ?
+Turn 4: My plans are to be there April 14th to the 17th .
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+Turn 2: Sure , John Sandals .
+Turn 3: Hi , Mr . Sandals . I'm Michelle , at your service . When do you need the room ?
+Turn 4: My plans are to be there April 14th to the 17th .
+Turn 5: We have new room rates , sir . Will that be acceptable to you ?
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+Turn 2: Sure , John Sandals .
+Turn 3: Hi , Mr . Sandals . I'm Michelle , at your service . When do you need the room ?
+Turn 4: My plans are to be there April 14th to the 17th .
+Turn 5: We have new room rates , sir . Will that be acceptable to you ?
+Turn 6: Well , it depends on the price , of course . What is it ?
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+Turn 2: Sure , John Sandals .
+Turn 3: Hi , Mr . Sandals . I'm Michelle , at your service . When do you need the room ?
+Turn 4: My plans are to be there April 14th to the 17th .
+Turn 5: We have new room rates , sir . Will that be acceptable to you ?
+Turn 6: Well , it depends on the price , of course . What is it ?
+Turn 7: It's $ 308 a night .
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+Turn 2: Sure , John Sandals .
+Turn 3: Hi , Mr . Sandals . I'm Michelle , at your service . When do you need the room ?
+Turn 4: My plans are to be there April 14th to the 17th .
+Turn 5: We have new room rates , sir . Will that be acceptable to you ?
+Turn 6: Well , it depends on the price , of course . What is it ?
+Turn 7: It's $ 308 a night .
+Turn 8: I have no problem with that .
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+Turn 2: Sure , John Sandals .
+Turn 3: Hi , Mr . Sandals . I'm Michelle , at your service . When do you need the room ?
+Turn 4: My plans are to be there April 14th to the 17th .
+Turn 5: We have new room rates , sir . Will that be acceptable to you ?
+Turn 6: Well , it depends on the price , of course . What is it ?
+Turn 7: It's $ 308 a night .
+Turn 8: I have no problem with that .
+Turn 9: Great ! Would you prefer smoking or nonsmoking ?
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+Turn 2: Sure , John Sandals .
+Turn 3: Hi , Mr . Sandals . I'm Michelle , at your service . When do you need the room ?
+Turn 4: My plans are to be there April 14th to the 17th .
+Turn 5: We have new room rates , sir . Will that be acceptable to you ?
+Turn 6: Well , it depends on the price , of course . What is it ?
+Turn 7: It's $ 308 a night .
+Turn 8: I have no problem with that .
+Turn 9: Great ! Would you prefer smoking or nonsmoking ?
+Turn 10: Definitely nonsmoking . I can't handle that smell .
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+Turn 2: Sure , John Sandals .
+Turn 3: Hi , Mr . Sandals . I'm Michelle , at your service . When do you need the room ?
+Turn 4: My plans are to be there April 14th to the 17th .
+Turn 5: We have new room rates , sir . Will that be acceptable to you ?
+Turn 6: Well , it depends on the price , of course . What is it ?
+Turn 7: It's $ 308 a night .
+Turn 8: I have no problem with that .
+Turn 9: Great ! Would you prefer smoking or nonsmoking ?
+Turn 10: Definitely nonsmoking . I can't handle that smell .
+Turn 11: Nonsmoking . Now , is a queen-size bed okay ?
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+Turn 2: Sure , John Sandals .
+Turn 3: Hi , Mr . Sandals . I'm Michelle , at your service . When do you need the room ?
+Turn 4: My plans are to be there April 14th to the 17th .
+Turn 5: We have new room rates , sir . Will that be acceptable to you ?
+Turn 6: Well , it depends on the price , of course . What is it ?
+Turn 7: It's $ 308 a night .
+Turn 8: I have no problem with that .
+Turn 9: Great ! Would you prefer smoking or nonsmoking ?
+Turn 10: Definitely nonsmoking . I can't handle that smell .
+Turn 11: Nonsmoking . Now , is a queen-size bed okay ?
+Turn 12: No problem .
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+Turn 2: Sure , John Sandals .
+Turn 3: Hi , Mr . Sandals . I'm Michelle , at your service . When do you need the room ?
+Turn 4: My plans are to be there April 14th to the 17th .
+Turn 5: We have new room rates , sir . Will that be acceptable to you ?
+Turn 6: Well , it depends on the price , of course . What is it ?
+Turn 7: It's $ 308 a night .
+Turn 8: I have no problem with that .
+Turn 9: Great ! Would you prefer smoking or nonsmoking ?
+Turn 10: Definitely nonsmoking . I can't handle that smell .
+Turn 11: Nonsmoking . Now , is a queen-size bed okay ?
+Turn 12: No problem .
+Turn 13: Great , Mr . Sandals . Your reservation is confirmed . Now all I need is your phone number .
+DialoGPT: 
+
+Turn 0: Hi there , I want to reserve a hotel room .
+Turn 1: No problem at all . Could I have your full name , please ?
+Turn 2: Sure , John Sandals .
+Turn 3: Hi , Mr . Sandals . I'm Michelle , at your service . When do you need the room ?
+Turn 4: My plans are to be there April 14th to the 17th .
+Turn 5: We have new room rates , sir . Will that be acceptable to you ?
+Turn 6: Well , it depends on the price , of course . What is it ?
+Turn 7: It's $ 308 a night .
+Turn 8: I have no problem with that .
+Turn 9: Great ! Would you prefer smoking or nonsmoking ?
+Turn 10: Definitely nonsmoking . I can't handle that smell .
+Turn 11: Nonsmoking . Now , is a queen-size bed okay ?
+Turn 12: No problem .
+Turn 13: Great , Mr . Sandals . Your reservation is confirmed . Now all I need is your phone number .
+Turn 14: Of course ! It's area code 626-555-1739 .
+DialoGPT: 
+
+Turn 0: Could I have my bill , please ?
+DialoGPT:  you're a good boy
+
+Turn 0: Could I have my bill , please ?
+Turn 1: Certainly , sir .
+DialoGPT: 
+
+Turn 0: Could I have my bill , please ?
+Turn 1: Certainly , sir .
+Turn 2: I'm afraid there's been a mistake .
+DialoGPT: 
+
+Turn 0: Could I have my bill , please ?
+Turn 1: Certainly , sir .
+Turn 2: I'm afraid there's been a mistake .
+Turn 3: I'm sorry , sir . What seems to be the trouble ?
+DialoGPT: I'm sorry, sir.
+
+Turn 0: Could I have my bill , please ?
+Turn 1: Certainly , sir .
+Turn 2: I'm afraid there's been a mistake .
+Turn 3: I'm sorry , sir . What seems to be the trouble ?
+Turn 4: I believe you have charged me twice for the same thing . Look , the figure of 6.5 dollar appears here , then again here .
+DialoGPT: 
+
+Turn 0: Good evening , madam . Can I help you ?
+DialoGPT: 
+
+Turn 0: Good evening , madam . Can I help you ?
+Turn 1: Yes . I bought this sheet here yesterday .
+DialoGPT: 
+
+Turn 0: Good evening , madam . Can I help you ?
+Turn 1: Yes . I bought this sheet here yesterday .
+Turn 2: Anything wrong with it ?
+DialoGPT: I'm not sure what you're asking.
+
+Turn 0: Good evening , madam . Can I help you ?
+Turn 1: Yes . I bought this sheet here yesterday .
+Turn 2: Anything wrong with it ?
+Turn 3: Yes . When I spread it out back home , I found this hole .
+DialoGPT: 
+
+Turn 0: Good evening , madam . Can I help you ?
+Turn 1: Yes . I bought this sheet here yesterday .
+Turn 2: Anything wrong with it ?
+Turn 3: Yes . When I spread it out back home , I found this hole .
+Turn 4: Oh , how awful ! May I have a look at the invoice ?
+DialoGPT: haha
+
+Turn 0: Good evening , madam . Can I help you ?
+Turn 1: Yes . I bought this sheet here yesterday .
+Turn 2: Anything wrong with it ?
+Turn 3: Yes . When I spread it out back home , I found this hole .
+Turn 4: Oh , how awful ! May I have a look at the invoice ?
+Turn 5: Here it is .
+DialoGPT: 
+
+Turn 0: Good evening , madam . Can I help you ?
+Turn 1: Yes . I bought this sheet here yesterday .
+Turn 2: Anything wrong with it ?
+Turn 3: Yes . When I spread it out back home , I found this hole .
+Turn 4: Oh , how awful ! May I have a look at the invoice ?
+Turn 5: Here it is .
+Turn 6: Well . please accept our sincere apologies , I'll be glad to change it for another one if you wish .
+DialoGPT: 
+
+Turn 0: Good evening , madam . Can I help you ?
+Turn 1: Yes . I bought this sheet here yesterday .
+Turn 2: Anything wrong with it ?
+Turn 3: Yes . When I spread it out back home , I found this hole .
+Turn 4: Oh , how awful ! May I have a look at the invoice ?
+Turn 5: Here it is .
+Turn 6: Well . please accept our sincere apologies , I'll be glad to change it for another one if you wish .
+Turn 7: That's very kind of you . Thank you .
+DialoGPT: 
+
+Turn 0: I need to buy some flowers for my wife .
+DialoGPT: 
+
+Turn 0: I need to buy some flowers for my wife .
+Turn 1: Perhaps you'd be interested in red roses .
+DialoGPT: 
+
+Turn 0: I need to buy some flowers for my wife .
+Turn 1: Perhaps you'd be interested in red roses .
+Turn 2: What would the roses cost me ?
+DialoGPT: 
+
+Turn 0: I need to buy some flowers for my wife .
+Turn 1: Perhaps you'd be interested in red roses .
+Turn 2: What would the roses cost me ?
+Turn 3: They're only $ 20 a dozen .
+DialoGPT: 
+
+Turn 0: I need to buy some flowers for my wife .
+Turn 1: Perhaps you'd be interested in red roses .
+Turn 2: What would the roses cost me ?
+Turn 3: They're only $ 20 a dozen .
+Turn 4: I like the sound of that .
+DialoGPT: 
+
+Turn 0: I need to buy some flowers for my wife .
+Turn 1: Perhaps you'd be interested in red roses .
+Turn 2: What would the roses cost me ?
+Turn 3: They're only $ 20 a dozen .
+Turn 4: I like the sound of that .
+Turn 5: Yes , that is today's sale price .
+DialoGPT: 
+
+Turn 0: I need to buy some flowers for my wife .
+Turn 1: Perhaps you'd be interested in red roses .
+Turn 2: What would the roses cost me ?
+Turn 3: They're only $ 20 a dozen .
+Turn 4: I like the sound of that .
+Turn 5: Yes , that is today's sale price .
+Turn 6: A dozen will be fine .
+DialoGPT: 
+
+Turn 0: I need to buy some flowers for my wife .
+Turn 1: Perhaps you'd be interested in red roses .
+Turn 2: What would the roses cost me ?
+Turn 3: They're only $ 20 a dozen .
+Turn 4: I like the sound of that .
+Turn 5: Yes , that is today's sale price .
+Turn 6: A dozen will be fine .
+Turn 7: Is there anything else you'd like to get ?
+DialoGPT: 
+
+Turn 0: I need to buy some flowers for my wife .
+Turn 1: Perhaps you'd be interested in red roses .
+Turn 2: What would the roses cost me ?
+Turn 3: They're only $ 20 a dozen .
+Turn 4: I like the sound of that .
+Turn 5: Yes , that is today's sale price .
+Turn 6: A dozen will be fine .
+Turn 7: Is there anything else you'd like to get ?
+Turn 8: No , thank you .
+DialoGPT: 
+
+Turn 0: Room service , is there anything I can do for you ?
+DialoGPT: 
+
+Turn 0: Room service , is there anything I can do for you ?
+Turn 1: Yes , I am afraid there are not enough outlets .
+DialoGPT: 
+
+Turn 0: Room service , is there anything I can do for you ?
+Turn 1: Yes , I am afraid there are not enough outlets .
+Turn 2: Well , we have 6 for each room .
+DialoGPT: 
+
+Turn 0: Room service , is there anything I can do for you ?
+Turn 1: Yes , I am afraid there are not enough outlets .
+Turn 2: Well , we have 6 for each room .
+Turn 3: Yes , but 4 of them are broken . Can you send someone here ?
+DialoGPT: 
+
